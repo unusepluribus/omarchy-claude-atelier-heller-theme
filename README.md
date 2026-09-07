@@ -2,7 +2,15 @@
 
 A brighter smoky-taupe companion — deliberately midtone, never glaring white. Built from the Claude Dark palette for **Omarchy 4, Quickshell and Lua-based Hyprland**.
 
-![Claude Quiet Taupe — text-free wallpaper](backgrounds/1-claude-quiet-taupe.png)
+![Claude Atelier Heller desktop with the optional Shibumi split bar](screenshots/desktop.png)
+
+## Screenshots
+
+Real desktop captures with neutral demo windows, taken on 2026-09-06. These show the locally customized setup with Shibumi and the optional Atelier widgets, not the result of installing the theme alone. See [Bar and optional extras](#bar-and-optional-extras) for the additional setup and Omarchy's theme-install limits.
+
+![Floating Shibumi bar](screenshots/bar.png)
+
+[Calendar panel](screenshots/calendar.png) · [Capture details](screenshots/README.md) · [Text-free wallpaper](backgrounds/1-claude-quiet-taupe.png)
 
 ## Design
 
